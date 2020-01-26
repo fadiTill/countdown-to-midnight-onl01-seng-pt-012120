@@ -5,4 +5,4 @@ def countdown
   while second > 0
     puts "second" -= 1
 end
-end 
+end
